@@ -1,16 +1,49 @@
-## Hi there 👋
+👋 Olá, eu sou Israel Santiago
 
-<!--
-**Israeraffi/israeraffi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em evolução, focado em desenvolvimento back-end com JavaScript e Node.js. Atualmente estudando criação de APIs REST, sistemas web, arquitetura back-end e boas práticas de programação.
 
-Here are some ideas to get you started:
+🚀 Tecnologias e Habilidades
+🖥️ Back-End
+JavaScript (ES6+)
+Node.js
+Express
+APIs REST
+CRUD
+JSON
+Rotas HTTP
+Middleware
+EJS
+🎨 Front-End
+HTML5
+CSS3
+JavaScript
+Responsividade
+Interfaces Web
+☕ Outros Conhecimentos
+Programação Orientada a Objetos (POO)
+Java
+Git e GitHub
+Lógica de Programação
+📚 Atualmente Estudando
+Arquitetura Back-End
+APIs REST
+Banco de Dados
+Autenticação JWT
+Salesforce
+💼 Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Alguns projetos desenvolvidos:
+
+Sistemas com Node.js e Express
+APIs REST
+CRUDs completos
+Landing Pages
+Sistemas de Login
+Dashboard Web
+Projeto Tec.Agro 🌱
+🎯 Objetivo
+
+Evoluir como desenvolvedor full stack, com foco principal em back-end, criando aplicações modernas, escaláveis e bem estruturadas.
+
+📫 Contato
+www.linkedin.com/in/israel-santiago-9ab4b9365/
