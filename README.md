@@ -1,9 +1,9 @@
-👋 Olá, eu sou Israel Santiago
+Olá, eu sou Israel Santiago
 
-💻 Desenvolvedor em evolução, focado em desenvolvimento back-end com JavaScript e Node.js. Atualmente estudando criação de APIs REST, sistemas web, arquitetura back-end e boas práticas de programação.
+Desenvolvedor em evolução, focado em desenvolvimento back-end com JavaScript e Node.js. Atualmente estudando criação de APIs REST, sistemas web, arquitetura back-end e boas práticas de programação.
 
-🚀 Tecnologias e Habilidades
-🖥️ Back-End
+Tecnologias e Habilidades
+Back-End
 JavaScript (ES6+)
 Node.js
 Express
@@ -13,26 +13,26 @@ JSON
 Rotas HTTP
 Middleware
 EJS
-🎨 Front-End
+Front-End
 HTML5
 CSS3
 JavaScript
 Responsividade
 Interfaces Web
-☕ Outros Conhecimentos
+Outros Conhecimentos
 Programação Orientada a Objetos (POO)
 Java
 Git e GitHub
 Lógica de Programação
-📚 Atualmente Estudando
+Atualmente Estudando
 Arquitetura Back-End
 APIs REST
 Banco de Dados
 Autenticação JWT
 Salesforce
-💼 Projetos
+Projetos
 
-🚀 Alguns projetos desenvolvidos:
+Alguns projetos desenvolvidos:
 
 Sistemas com Node.js e Express
 APIs REST
@@ -40,10 +40,10 @@ CRUDs completos
 Landing Pages
 Sistemas de Login
 Dashboard Web
-Projeto Tec.Agro 🌱
-🎯 Objetivo
+Projeto Tec.Agro 
+Objetivo
 
 Evoluir como desenvolvedor full stack, com foco principal em back-end, criando aplicações modernas, escaláveis e bem estruturadas.
 
-📫 Contato
+Contato
 www.linkedin.com/in/israel-santiago-9ab4b9365/
