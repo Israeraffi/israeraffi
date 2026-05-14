@@ -1,49 +1,42 @@
-Olá, eu sou Israel Santiago
+# Olá, eu sou o Israel Santiago 👋
 
-Desenvolvedor em evolução, focado em desenvolvimento back-end com JavaScript e Node.js. Atualmente estudando criação de APIs REST, sistemas web, arquitetura back-end e boas práticas de programação.
+Desenvolvedor em evolução, focado em desenvolvimento **Back-End** com JavaScript e Node.js. Atualmente mergulhado na criação de APIs REST, arquitetura de sistemas e boas práticas de programação.
 
-Tecnologias e Habilidades
-Back-End
-JavaScript (ES6+)
-Node.js
-Express
-APIs REST
-CRUD
-JSON
-Rotas HTTP
-Middleware
-EJS
-Front-End
-HTML5
-CSS3
-JavaScript
-Responsividade
-Interfaces Web
-Outros Conhecimentos
-Programação Orientada a Objetos (POO)
-Java
-Git e GitHub
-Lógica de Programação
-Atualmente Estudando
-Arquitetura Back-End
-APIs REST
-Banco de Dados
-Autenticação JWT
-Salesforce
-Projetos
+---
 
-Alguns projetos desenvolvidos:
+### 🚀 Tecnologias e Habilidades
 
-Sistemas com Node.js e Express
-APIs REST
-CRUDs completos
-Landing Pages
-Sistemas de Login
-Dashboard Web
-Projeto Tec.Agro 
-Objetivo
+**🖥️ Back-End**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+* APIs REST, CRUD, JSON, Rotas HTTP, Middleware e EJS.
 
-Evoluir como desenvolvedor full stack, com foco principal em back-end, criando aplicações modernas, escaláveis e bem estruturadas.
+**🎨 Front-End**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+* Responsividade e criação de interfaces web modernas.
 
-Contato
-www.linkedin.com/in/israel-santiago-9ab4b9365/
+**☕ Outros Conhecimentos**
+* Programação Orientada a Objetos (POO) com **Java**.
+* Versionamento com **Git & GitHub**.
+* Lógica de Programação avançada.
+
+---
+
+### 📚 Atualmente Estudando
+* 🏗️ Arquitetura Back-End & APIs RESTful.
+* 🗄️ Bancos de Dados & Autenticação JWT.
+* ☁️ Salesforce.
+* ⚛️ TypeScript (Iniciando).
+
+---
+
+### 💼 Projetos em Destaque
+* **Projeto Tec.Agro 🌱**: [Breve descrição do que o projeto faz].
+* **Sistemas com Node.js**: CRUDs completos e sistemas de login seguros.
+* **Dashboards & Landing Pages**: Interfaces focadas em experiência do usuário.
+
+> **Objetivo:** Evoluir como desenvolvedor Full Stack, criando aplicações escaláveis e bem estruturadas.
+
+---
+
+### 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-santiago-9ab4b9365/)
