@@ -24,7 +24,7 @@ Desenvolvedor em evolução, focado em desenvolvimento **Back-End** com JavaScri
 ### 📚 Atualmente Estudando
 * 🏗️ Arquitetura Back-End & APIs RESTful.
 * 🗄️ Bancos de Dados & Autenticação JWT.
-* ☁️ Salesforce.
+* ☁️ Salesforce (Iniciando).
 * ⚛️ TypeScript (Iniciando).
 
 ---
